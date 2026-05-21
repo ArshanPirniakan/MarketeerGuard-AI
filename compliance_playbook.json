@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Perpetual IP Transfer",
+    "risk_level": "HIGH",
+    "description": "Client retains permanent, global, irrevocable ownership of all creative work and intellectual property produced under the agreement, including future derivative works.",
+    "keywords": ["perpetuity", "irrevocable", "worldwide rights", "all rights reserved", "assign all", "transfer all rights", "work for hire", "intellectual property transfer"]
+  },
+  {
+    "name": "Exclusivity Trap",
+    "risk_level": "HIGH",
+    "description": "The agreement prohibits the creator or agency from working with competing brands, similar industries, or any clients in the same niche during or after the contract period.",
+    "keywords": ["exclusivity", "exclusive", "non-compete", "shall not work", "not permitted to work", "competing clients", "competing brands", "sole provider"]
+  },
+  {
+    "name": "Broad Indemnification Clause",
+    "risk_level": "HIGH",
+    "description": "The service provider agrees to indemnify and hold harmless the client from any and all claims, damages, losses, or liabilities including those not directly caused by the provider.",
+    "keywords": ["indemnify", "indemnification", "hold harmless", "defend and indemnify", "liabilities arising", "claims arising", "at your expense"]
+  },
+  {
+    "name": "Unlimited Revisions",
+    "risk_level": "HIGH",
+    "description": "The contract requires the provider to make unlimited revisions or changes to deliverables without additional compensation or a defined revision limit.",
+    "keywords": ["unlimited revisions", "unlimited changes", "as many revisions", "revisions until satisfied", "until client approval", "without additional charge"]
+  },
+  {
+    "name": "Hidden Auto-Renewal",
+    "risk_level": "HIGH",
+    "description": "The agreement automatically renews for an extended period without explicit written notice from the client, creating ongoing financial obligations.",
+    "keywords": ["automatically renew", "auto-renew", "auto renew", "shall automatically", "unless cancelled", "notice of non-renewal", "rolling term"]
+  },
+  {
+    "name": "Unilateral Contract Modification",
+    "risk_level": "HIGH",
+    "description": "The client reserves the right to modify, amend, or change the terms of the contract at any time without the provider's consent.",
+    "keywords": ["reserves the right to modify", "may change at any time", "sole discretion to amend", "without prior notice", "unilateral modification", "update these terms"]
+  },
+  {
+    "name": "No-Kill-Fee Termination",
+    "risk_level": "MEDIUM",
+    "description": "The client may terminate the contract at any time without paying a kill fee or compensation for work already completed or in progress.",
+    "keywords": ["terminate without cause", "terminate at will", "no kill fee", "without penalty", "immediate termination", "terminate upon notice"]
+  },
+  {
+    "name": "Vague Deliverables",
+    "risk_level": "MEDIUM",
+    "description": "The scope of deliverables, services, or creative output is described in vague or ambiguous terms that could lead to scope creep.",
+    "keywords": ["as needed", "as required", "any other tasks", "reasonable requests", "additional services", "other duties", "any content deemed necessary"]
+  },
+  {
+    "name": "Late Payment No Penalty",
+    "risk_level": "MEDIUM",
+    "description": "The agreement does not specify penalties or interest for late payments, leaving the provider with no recourse for delayed compensation.",
+    "keywords": ["no interest", "no late fee", "no penalty for late", "payment at client discretion", "net 90", "net 60", "upon client approval"]
+  },
+  {
+    "name": "Content Approval Bottleneck",
+    "risk_level": "MEDIUM",
+    "description": "Payment or project milestones are contingent on client approval without a defined approval timeline, potentially creating indefinite delays.",
+    "keywords": ["upon approval", "subject to approval", "client approval required", "at client's discretion", "final approval", "written approval required"]
+  },
+  {
+    "name": "One-Sided Confidentiality",
+    "risk_level": "MEDIUM",
+    "description": "The NDA or confidentiality clause only restricts the service provider and does not equally protect the provider's proprietary methods, strategies, or business information.",
+    "keywords": ["provider shall not disclose", "you shall keep confidential", "must keep secret", "shall not reveal", "confidential information of client"]
+  },
+  {
+    "name": "Forced Arbitration",
+    "risk_level": "MEDIUM",
+    "description": "The agreement requires any disputes to be resolved through private arbitration, waiving the right to a jury trial or class action.",
+    "keywords": ["binding arbitration", "mandatory arbitration", "waive right to jury", "class action waiver", "arbitration shall be final", "dispute resolution by arbitration"]
+  },
+  {
+    "name": "Subcontracting Restrictions",
+    "risk_level": "MEDIUM",
+    "description": "The provider is prohibited from subcontracting any portion of the work without prior written approval, limiting operational flexibility.",
+    "keywords": ["no subcontracting", "shall not subcontract", "prior written consent to subcontract", "no third party", "must not delegate"]
+  },
+  {
+    "name": "Extended Payment Terms",
+    "risk_level": "LOW",
+    "description": "The payment schedule extends beyond 30 days net, creating cash flow risk for the provider.",
+    "keywords": ["net 45", "net 60", "net 90", "payment within 60", "payment within 90", "45 days from invoice", "60 days from invoice"]
+  },
+  {
+    "name": "Short Termination Notice",
+    "risk_level": "LOW",
+    "description": "The termination notice period is very short (less than 14 days), leaving insufficient time to wind down or transition work.",
+    "keywords": ["3 days notice", "5 days notice", "7 days notice", "immediate notice", "one week notice", "48 hours notice"]
+  },
+  {
+    "name": "Portfolio Usage Restriction",
+    "risk_level": "LOW",
+    "description": "The client restricts the provider from displaying completed work in their portfolio or using it as a case study without prior written approval.",
+    "keywords": ["shall not use in portfolio", "no portfolio use", "no case study", "prior written consent to display", "confidential work product", "not for public display"]
+  }
+]
